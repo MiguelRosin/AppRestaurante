@@ -1,0 +1,16 @@
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\bin\Debug\netstandard2.0\AppRestcliente.deps.json
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\bin\Debug\netstandard2.0\AppRestcliente.dll
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\bin\Debug\netstandard2.0\ref\AppRestcliente.dll
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\bin\Debug\netstandard2.0\AppRestcliente.pdb
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\obj\Debug\netstandard2.0\AppRestcliente.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\obj\Debug\netstandard2.0\AppRestcliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\obj\Debug\netstandard2.0\Vistas\PedidoMesa.xaml.g.cs
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\obj\Debug\netstandard2.0\AppRestcliente.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\obj\Debug\netstandard2.0\AppRestcliente.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\obj\Debug\netstandard2.0\AppRestcliente.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\obj\Debug\netstandard2.0\AppRestcliente.dll
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\obj\Debug\netstandard2.0\refint\AppRestcliente.dll
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\obj\Debug\netstandard2.0\AppRestcliente.pdb
+C:\Users\migue\OneDrive\Escritorio\App\AppRestcliente\AppRestcliente\obj\Debug\netstandard2.0\Vistas\Pedidos.xaml.g.cs

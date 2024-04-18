@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "T2xm6jqJpkSriu3G9M3R2FNfD1OXeiWjDmjGCu8FHnN17PH0r+Vvsd6yDXbu/wntZ/DyiT4/5zWTnejd+kV3Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\migue\\OneDrive\\Escritorio\\App\\AppRestcliente\\AppRestcliente.iOS\\AppRestcliente.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
